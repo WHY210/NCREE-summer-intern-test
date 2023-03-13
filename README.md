@@ -43,9 +43,8 @@
 回傳第一個google搜尋結果
 即透過internet 傳送 request 給google 搜尋引擎，處理google的回傳結果後，將首個超連結回傳
 
-#6-complete!!!!!
+#6
 找出迴文數 (Palindromes)
 輸入2位數以上的任意正整數n，和它逆序翻轉後形成的新數相加
 如此循環下去，要加幾次才會得到迴文數?
 若超過5000次還無法得到迴文數，則輸出"no"。
-# NCREE-summer-intern-test
