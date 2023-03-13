@@ -13,13 +13,7 @@ from tkinter import FALSE
 path = str(input("請複製存放txt檔的資料夾路徑:"))
 path = path.replace("\\","/")
 os.chdir(path)
-"""
 
-##網路爬蟲-下載檔案
-import requests
-url = "https://drive.google.com/drive/folders/1GtT7hGBVmFnVaG06UBgOEX-ZaOy3TwIV/HOUF43D10.txt" 
-headers = {'content-type': 'text/html; charset=UTF-8',
-"""
 
 ## 讀取txt成list
 file = 'HOUF43D10.txt'
